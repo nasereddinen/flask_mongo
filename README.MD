@@ -55,7 +55,7 @@ the page:
   when you click to delete the delete route will be work to delete todo with id:
   
   <img
-  src="/screenshots/Screenshot from 2023-04-10 05-04-57.png"
+  src="/screenshots/Screenshot from 2023-04-10 05-52-13.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
